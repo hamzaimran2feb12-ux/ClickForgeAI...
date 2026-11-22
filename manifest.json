@@ -1,7 +1,7 @@
 {
   "name": "ClipForge AI",
   "short_name": "ClipForge",
-  "description": "AI-powered video clipping tool",
+  "description": "AI-powered video clipping app",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -13,7 +13,7 @@
       "src": "/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
